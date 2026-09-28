@@ -4,10 +4,25 @@ Repositori ini berisi halaman statis publik untuk **Privacy Policy** (Kebijakan 
 
 ---
 
+## 🌐 Tautan Langsung (Live Links)
+
+Akses halaman publik yang telah dideploy di GitHub Pages:
+
+| Halaman | Deskripsi | Akses Langsung |
+| :--- | :--- | :--- |
+| 🛡️ **Privacy Policy** | Kebijakan Privasi & Perlindungan Data | [🔗 Buka Kebijakan Privasi](https://adityawangsa.github.io/tiktok-app-pages/privacy/) |
+| 📜 **Terms of Service** | Syarat & Ketentuan Penggunaan Aplikasi | [🚀 **Kunjungi Terms of Service**](https://adityawangsa.github.io/tiktok-app-pages/term/) |
+
+> [!TIP]
+> **Akses Cepat Terms of Service:**  
+> 👉 Langsung kunjungi: **[https://adityawangsa.github.io/tiktok-app-pages/term/](https://adityawangsa.github.io/tiktok-app-pages/term/)**
+
+---
+
 ## 📄 Halaman yang Tersedia
 
-- **`privacy.html`** : Halaman Kebijakan Privasi yang menjelaskan batasan izin data TikTok (hanya profil dasar & posting video), enkripsi token melalui *Google Apps Script Properties*, serta jaminan tanpa pembagian data pihak ketiga.
-- **`term.html`** : Halaman Ketentuan Layanan yang menegaskan bahwa aplikasi ini adalah *personal internal automation tool* untuk penjadwalan konten TikTok via Google Sheets.
+- **[`/privacy/`](https://adityawangsa.github.io/tiktok-app-pages/privacy/)** : Halaman Kebijakan Privasi yang menjelaskan batasan izin data TikTok (hanya profil dasar & posting video), enkripsi token melalui *Google Apps Script Properties*, serta jaminan tanpa pembagian data pihak ketiga.
+- **[`/term/`](https://adityawangsa.github.io/tiktok-app-pages/term/)** : Halaman Ketentuan Layanan yang menegaskan bahwa aplikasi ini adalah *personal internal automation tool* untuk penjadwalan konten TikTok via Google Sheets.
 
 ---
 
@@ -35,9 +50,9 @@ Halaman ini siap di-host langsung secara gratis via **GitHub Pages**:
    - **Source**: Pilih `Deploy from a branch`
    - **Branch**: Pilih `main` (atau `master`) dan folder `/ (root)`
    - Klik **Save**.
-4. URL publik Anda akan aktif di format:
-   - **Privacy Policy**: `https://<username>.github.io/<repo-name>/privacy.html`
-   - **Terms of Service**: `https://<username>.github.io/<repo-name>/term.html`
+4. URL publik Anda aktif di format:
+   - **Privacy Policy**: `https://<username>.github.io/<repo-name>/privacy/`
+   - **Terms of Service**: `https://<username>.github.io/<repo-name>/term/`
 5. Salin kedua link tersebut ke form pendaftaran **TikTok Developer Portal** pada kolom *Privacy Policy URL* dan *Terms of Service URL*.
 
 ---
